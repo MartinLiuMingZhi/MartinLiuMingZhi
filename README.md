@@ -21,10 +21,13 @@ My overall life as a developer binds with GitHub. For more personal information,
 🔨 Working on:
 Android apps… for personal use
 Writing blogs … continuously
+
 ⚔ Currently learning:
 Front-end… you say
 Networking principles… with laziness
+
 📫 Reach me:
 Send a email
 MY PERSONAL HOMEPAGE
+
 ✨ What I've done previously:
