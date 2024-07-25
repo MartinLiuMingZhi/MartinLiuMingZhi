@@ -28,6 +28,6 @@ Networking principles… with laziness
 
 📫 Reach me:
 Send a email: 3108531642@qq.com
-MY PERSONAL HOMEPAGE: http://blog.liumingzhi.cn
+MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
 
 ✨ What I've done previously:
