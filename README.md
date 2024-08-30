@@ -31,3 +31,6 @@ Send a email: 3108531642@qq.com
 MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
 
 ✨ What I've done previously:
+
+![](https://github-readme-stats.vercel.app/api?username=MartinLiuMingZhi&show_icons=true&theme=transparent)
+
