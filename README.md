@@ -34,3 +34,14 @@ MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=MartinLiuMingZhi&show_icons=true&theme=transparent)
 
+**You are my**   ![Visitor Count](https://profile-counter.glitch.me/MartinLiuMingZhi/count.svg) **visitors, thank you :fire: :fire:**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLiuMingZhi&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=MartinLiuMingZhi&theme=dracula)
+
+### My Skill Set
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Android?style=for-the-badge&logo=Android&logoColor=white)
+
+
+
