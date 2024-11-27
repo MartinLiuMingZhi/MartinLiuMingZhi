@@ -40,8 +40,10 @@ MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MartinLiuMingZhi&theme=dracula)
 
-### My Skill Set
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Android?style=for-the-badge&logo=Android&logoColor=white)
+**My Skill Set**
+
+Android JAVA Kotlin HarmonyOS
+
 
 
 
