@@ -34,15 +34,12 @@ MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=MartinLiuMingZhi&show_icons=true&theme=transparent)
 
-**You are my**   ![Visitor Count](https://profile-counter.glitch.me/MartinLiuMingZhi/count.svg) **visitors, thank you :fire: :fire:**   **2024-08-30**
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLiuMingZhi&layout=compact&theme=tokyonight)
-
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MartinLiuMingZhi&theme=dracula)
 
-**My Skill Set**
+##### Skills
 
-Android JAVA Kotlin HarmonyOS
+**Android** **JAVA** **Kotlin** **HarmonyOS** 
 
 
 
