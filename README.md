@@ -1,46 +1,33 @@
 ### Hi there 👋
 
-<!--
-**MartinLiuMingZhi/MartinLiuMingZhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liu MingZhi, a university student based in Hunan. As a developer, my workflow is closely tied to GitHub. For more details, check out my [Personal Homepage](https://blog.liumingzhi.cn)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Liu MingZhi , a pigeon currently acting as a student studying in a university located in Hunan.
+#### 🔭 What I'm Working On
+- Developing Android apps for personal projects
+- Continuously writing technical blogs
 
-My overall life as a developer binds with GitHub. For more personal information, go to MY PERSONAL HOMEPAGE !!
 
-🔨 Working on:
-Android apps… for personal use
-Writing blogs … continuously
+#### 🌱 Currently Learning
+- Front-end development
+- Network principles (at a leisurely pace 😄)
 
-⚔ Currently learning:
-Front-end… you say
-Networking principles… with laziness
 
-📫 Reach me:
-Send a email: 3108531642@qq.com
-MY PERSONAL HOMEPAGE: https://blog.liumingzhi.cn
+#### 📫 How to Reach Me
+- Email: [3108531642@qq.com](mailto:3108531642@qq.com)
+- Personal Homepage: [blog.liumingzhi.cn](https://blog.liumingzhi.cn)
 
-✨ What I've done previously:
 
+#### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MartinLiuMingZhi&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLiuMingZhi&layout=compact&theme=tokyonight)
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MartinLiuMingZhi&theme=dracula)
 
-##### Skills
 
-**Android** **JAVA** **Kotlin** **HarmonyOS** 
-
-
-
-
+#### 🛠️ Skills
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![HarmonyOS](https://img.shields.io/badge/HarmonyOS-FF3A30?style=for-the-badge&logo=harmonyos&logoColor=white)
