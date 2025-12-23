@@ -35,16 +35,14 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <!-- 使用动态徽章或 “Repo Card” 显示项目链接 -->
-  <a href="https://github.com/MartinLiuMingZhi/YourProject1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=YourProject1&theme=shades-of-purple" alt="Project 1" />
+  <a href="https://github.com/MartinLiuMingZhi/Lumen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
   </a>
-  <a href="https://github.com/MartinLiuMingZhi/YourProject2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=YourProject2&theme=shades-of-purple" alt="Project 2" />
+
+  <a href="https://github.com/MartinLiuMingZhi/wiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=wiki&theme=shades-of-purple" alt="Wiki" />
   </a>
 </p>
-
-> 📌 替换 `YourProject1 / YourProject2` 为你的真实项目名
 
 ---
 
