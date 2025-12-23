@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Liu MingZhi</h1>
 <p align="center">
-  <em>🟣 Android Developer • 🌈 Front-end Enthusiast • 📚 Tech Blogger</em>
+  <em>🟣 Android Developer • 🌈 Full‑Stack Enthusiast • 📚 Tech Blogger</em>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 🚀 About Me
 <p align="center">
   🎓 University Student in Hunan • 💻 Passionate about creating beautiful apps and writing<br/>
-  🛠️ Currently exploring Android, Front-end & networking fundamentals • Always learning 🔄  
+  🛠️ Currently exploring Android, Full‑Stack & networking fundamentals • Always learning 🔄  
 </p>
 
 ---
