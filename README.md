@@ -46,6 +46,14 @@
 
 ---
 
+## Visists 
+<p align="center">
+  <img src="https://api.moedog.org/count/@MartinLiuMingZhi.readme" alt="Profile Views" />
+</p>
+
+
+
+
 ## 🛠️ Skills
 
 ### 💻 Languages & Frameworks
