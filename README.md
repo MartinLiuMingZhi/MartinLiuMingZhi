@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MartinLiuMingZhi&show_icons=true&theme=synthwave" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLiuMingZhi&layout=compact&theme=synthwave" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=XichenX&show_icons=true&theme=synthwave" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XichenX&layout=compact&theme=synthwave" alt="Top Languages" width="49%" />
 </p>
 
 ---
@@ -36,11 +36,11 @@
 
 <p align="center">
   <a href="https://github.com/MartinLiuMingZhi/Lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
   </a>
 
   <a href="https://github.com/MartinLiuMingZhi/wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=wiki&theme=shades-of-purple" alt="Wiki" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=wiki&theme=shades-of-purple" alt="Wiki" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 ## Visists 
 <p align="center">
-  <img src="https://api.moedog.org/count/@MartinLiuMingZhi.readme" alt="Profile Views" />
+  <img src="https://api.moedog.org/count/@XichenX.readme" alt="Profile Views" />
 </p>
 
 
@@ -78,7 +78,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/MartinLiuMingZhi">
+  <a href="https://github.com/XichenX">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:3108531642@qq.com">
