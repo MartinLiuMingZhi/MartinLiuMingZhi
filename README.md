@@ -22,12 +22,12 @@
 
 <p align="center">
   <!-- 动态贡献图（需开启 Activity Graph 服务） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinLiuMingZhi&theme=dracula" alt="Github Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XichenX&theme=dracula" alt="Github Activity Graph" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=XichenX&show_icons=true&theme=synthwave" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XichenX&layout=compact&theme=synthwave" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLiuMingZhi&layout=compact&theme=synthwave" alt="Top Languages" width="49%" />
 </p>
 
 ---
@@ -36,11 +36,11 @@
 
 <p align="center">
   <a href="https://github.com/MartinLiuMingZhi/Lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
   </a>
 
   <a href="https://github.com/MartinLiuMingZhi/wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=wiki&theme=shades-of-purple" alt="Wiki" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=wiki&theme=shades-of-purple" alt="Wiki" />
   </a>
 </p>
 
