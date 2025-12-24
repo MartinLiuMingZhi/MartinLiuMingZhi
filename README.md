@@ -36,11 +36,11 @@
 
 <p align="center">
   <a href="https://github.com/MartinLiuMingZhi/Lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=Lumen&theme=shades-of-purple" alt="Lumen" />
   </a>
 
   <a href="https://github.com/MartinLiuMingZhi/wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinLiuMingZhi&repo=wiki&theme=shades-of-purple" alt="Wiki" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XichenX&repo=wiki&theme=shades-of-purple" alt="Wiki" />
   </a>
 </p>
 
